@@ -10,4 +10,4 @@ A simple Python-based reconnaissance tool for basic web security analysis.
 
 ## Usage
 ```bash
-python3 recon_tool.py example.com
+python recon_tool.py example.com
